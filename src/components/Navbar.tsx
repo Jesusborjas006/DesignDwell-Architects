@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
     <nav className="flex justify-between p-6 absolute top-0 w-full">
       <h2>DesignDwell Architects</h2>
-      <ul className="flex gap-8">
+      <ul className="hidden lg:flex gap-5 xl:gap-8 text-sm">
         <li>HOME</li>
         <li>PAGES</li>
         <li>SERVICES</li>
@@ -10,7 +10,7 @@ const Navbar = () => {
         <li>BLOG</li>
         <li>CONTACTS</li>
       </ul>
-      <div className="flex gap-8">
+      <div className="flex gap-8 text-sm">
         <p>Shop</p>
         <p>Search</p>
         <p>Nav</p>
