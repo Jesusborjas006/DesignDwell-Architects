@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="flex justify-between border p-6">
+    <nav className="flex justify-between p-6 absolute top-0 w-full">
       <h2>DesignDwell Architects</h2>
       <ul className="flex gap-8">
         <li>HOME</li>
