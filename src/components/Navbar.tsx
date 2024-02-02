@@ -1,7 +1,9 @@
 const Navbar = () => {
   return (
-    <nav className="flex justify-between p-6 absolute top-0 w-full">
-      <h2>DesignDwell Architects</h2>
+    <nav className="flex justify-between items-center p-6 absolute top-0 w-full">
+      <h2 className="text-sm sm:text-lg font-semibold">
+        DesignDwell Architects
+      </h2>
       <ul className="hidden lg:flex gap-5 xl:gap-8 text-sm">
         <li>HOME</li>
         <li>PAGES</li>
@@ -10,7 +12,7 @@ const Navbar = () => {
         <li>BLOG</li>
         <li>CONTACTS</li>
       </ul>
-      <div className="flex gap-8 text-sm">
+      <div className="flex gap-4 xl:gap-8 text-sm">
         <p>Shop</p>
         <p>Search</p>
         <p>Nav</p>
