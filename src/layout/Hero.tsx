@@ -5,14 +5,14 @@ import HeroFooter from "../components/HeroFooter";
 
 const Hero = () => {
   return (
-    <section className="max-h-screen relative min-h-[750px]">
+    <section className="max-h-screen relative  min-h-svh">
       <div className="absolute w-full h-full text-white max-h-screen bg-black/45 flex flex-col justify-center ">
         <Navbar />
         <HeroHeading />
         <HeroFooter />
       </div>
       <img
-        className="w-full max-h-screen object-cover min-h-[750px]"
+        className="w-full max-h-screen object-cover min-h-svh"
         src={heroImg}
         alt="Modern Home"
       />
