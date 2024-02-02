@@ -1,7 +1,7 @@
 const Story = () => {
   return (
-    <section className="px-6 flex flex-col justify-around items-center mt-24 lg:flex-row gap-x-10">
-      <div className="flex-1 max-w-[520px] sm:mx-auto">
+    <section className="px-6 flex flex-col items-center mt-24 lg:flex-row gap-x-10 max-w-[1400px] mx-auto">
+      <div className="max-w-[520px] sm:mx-auto">
         <h4 className="text-[#D7926B] mb-4">OUR STORY</h4>
         <h2 className="text-4xl font-semibold">Welcome To DesignDwell</h2>
         <h2 className="text-4xl font-semibold mb-10">Architects</h2>
