@@ -33,7 +33,7 @@ const Story = () => {
           />
         </div>
       </section>
-      <div className="bg-[#f1c5ab] grid sm:grid-cols-2 gap-y-16 py-36 px-12 justify-start">
+      <div className="bg-[#f1c5ab] grid sm:grid-cols-2 lg:grid-cols-4 gap-y-16 py-36 px-12 justify-start">
         <div className="flex sm:justify-center">
           <h3 className="font-extrabold text-5xl mr-2">532</h3>
           <p>
