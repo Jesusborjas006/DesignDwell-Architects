@@ -2,7 +2,10 @@ const Story = () => {
   return (
     <section className="px-6 flex flex-col items-center mt-24 lg:flex-row gap-x-10 max-w-[1400px] mx-auto">
       <div className="max-w-[520px] sm:mx-auto">
-        <h4 className="text-[#D7926B] mb-4">OUR STORY</h4>
+        <div className="flex items-center mb-4">
+          <div className="bg-[#D7926B] w-14 h-[2px] mr-4"></div>
+          <h4 className="text-[#D7926B]">OUR STORY</h4>
+        </div>
         <h2 className="text-4xl font-semibold">Welcome To DesignDwell</h2>
         <h2 className="text-4xl font-semibold mb-10">Architects</h2>
         <p className="text-[#615E5E] leading-7 mb-10 ">
