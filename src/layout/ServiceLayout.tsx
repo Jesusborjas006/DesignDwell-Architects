@@ -9,7 +9,7 @@ const ServiceLayout = () => {
         <h2 className="text-4xl font-semibold">Our Services</h2>
 
         <div className="grid gap-y-6 sm:grid-cols-2 xl:grid-cols-4 mt-12 gap-x-8">
-          <div className="group border border-b-4 border-b-[#D7926B] w-[300px] px-6 py-8 hover:bg-[#18130C] hover:text-white">
+          <div className="group border border-b-4 border-b-[#D7926B] w-full px-6 py-8 hover:bg-[#18130C] hover:text-white">
             <h4 className="font-bold text-lg mb-4">Architecture & Interior</h4>
             <p className="text-sm mb-6 text-[#615E5E] group-hover:text-white">
               Aenean commodo nec ligula eget cum sociis dolor.
@@ -19,7 +19,7 @@ const ServiceLayout = () => {
               <p>READ MORE</p>
             </div>
           </div>
-          <div className="group border border-b-4 border-b-[#D7926B] w-[300px] px-6 py-8 hover:bg-[#18130C] hover:text-white">
+          <div className="group border border-b-4 border-b-[#D7926B] w-full px-6 py-8 hover:bg-[#18130C] hover:text-white">
             <h4 className="font-bold text-lg mb-4">Project Planning</h4>
             <p className="text-sm mb-6 text-[#615E5E] group-hover:text-white">
               Aenean commodo nec ligula eget cum sociis dolor.
@@ -29,7 +29,7 @@ const ServiceLayout = () => {
               <p>READ MORE</p>
             </div>
           </div>
-          <div className="group border border-b-4 border-b-[#D7926B] w-[300px] px-6 py-8 hover:bg-[#18130C] hover:text-white">
+          <div className="group border border-b-4 border-b-[#D7926B] w-full px-6 py-8 hover:bg-[#18130C] hover:text-white">
             <h4 className="font-bold text-lg mb-4">Product Design</h4>
             <p className="text-sm mb-6 text-[#615E5E] group-hover:text-white">
               Aenean commodo nec ligula eget cum sociis dolor.
@@ -39,7 +39,7 @@ const ServiceLayout = () => {
               <p>READ MORE</p>
             </div>
           </div>
-          <div className="group border border-b-4 border-b-[#D7926B] w-[300px] px-6 py-8 hover:bg-[#18130C] hover:text-white">
+          <div className="group border border-b-4 border-b-[#D7926B] w-full px-6 py-8 hover:bg-[#18130C] hover:text-white">
             <h4 className="font-bold text-lg mb-4">Custom Solutions</h4>
             <p className="text-sm mb-6 text-[#615E5E] group-hover:text-white">
               Aenean commodo nec ligula eget cum sociis dolor.
