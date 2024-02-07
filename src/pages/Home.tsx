@@ -1,3 +1,4 @@
+import FeaturedWorksLayout from "../layout/FeaturedWorksLayout";
 import Hero from "../layout/Hero";
 import ServiceLayout from "../layout/ServiceLayout";
 import Story from "../layout/Story";
@@ -8,6 +9,7 @@ const Home = () => {
       <Hero />
       <Story />
       <ServiceLayout />
+      <FeaturedWorksLayout />
     </>
   );
 };
