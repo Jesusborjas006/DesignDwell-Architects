@@ -35,6 +35,11 @@ const FeaturedWorksLayout = () => {
           alt="interior home"
         />
       </div>
+      <div className="flex justify-center space-x-8 mt-10">
+        <div className="bg-[#D7926B] w-3 h-3 rounded-full"></div>
+        <div className="bg-black w-3 h-3 rounded-full"></div>
+        <div className="bg-[#D7926B] w-3 h-3 rounded-full"></div>
+      </div>
     </>
   );
 };
