@@ -25,7 +25,7 @@ const FeaturedWorksLayout = () => {
           alt="interior home"
         />
         <img
-          className="object-cover mx-auto w-[334px] sm:w-[60%] md:w-[55%] lg:w-[45%] xl:w-[55%] h-[300px] md:h-[400px] lg:h-[500px] xl:h-[600px]"
+          className="object-cover mx-auto w-[70%] sm:w-[60%] md:w-[55%] lg:w-[45%] xl:w-[55%] h-[300px] md:h-[400px] lg:h-[500px] xl:h-[600px]"
           src="https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="interior home"
         />
