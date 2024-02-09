@@ -1,4 +1,5 @@
 import FeaturedWorksLayout from "../layout/FeaturedWorksLayout";
+import GetInTouch from "../layout/GetInTouch";
 import Hero from "../layout/Hero";
 import ServiceLayout from "../layout/ServiceLayout";
 import Story from "../layout/Story";
@@ -11,6 +12,7 @@ const Home = () => {
       <Story />
       <ServiceLayout />
       <FeaturedWorksLayout />
+      <GetInTouch />
       <TeamLayout />
     </>
   );
