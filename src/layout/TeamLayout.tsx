@@ -12,22 +12,22 @@ const TeamLayout = () => {
         <div>
           <img src={avatarImg} alt="Woman avatar" />
           <p className="text-[#D7926B] text-sm mt-4">INTERIOR DESIGNER</p>
-          <p className="font-semibold">Jenny Wilson</p>
+          <p className="font-semibold sm:text-base md:text-lg">Jenny Wilson</p>
         </div>
         <div>
           <img src={avatarImg} alt="Woman avatar" />
           <p className="text-[#D7926B] text-sm mt-4">INTERIOR DESIGNER</p>
-          <p className="font-semibold">Jenny Wilson</p>
+          <p className="font-semibold sm:text-base md:text-lg">Jenny Wilson</p>
         </div>
         <div>
           <img src={avatarImg} alt="Woman avatar" />
           <p className="text-[#D7926B] text-sm mt-4">INTERIOR DESIGNER</p>
-          <p className="font-semibold">Jenny Wilson</p>
+          <p className="font-semibold sm:text-base md:text-lg">Jenny Wilson</p>
         </div>
         <div>
           <img src={avatarImg} alt="Woman avatar" />
           <p className="text-[#D7926B] text-sm mt-4">INTERIOR DESIGNER</p>
-          <p className="font-semibold">Jenny Wilson</p>
+          <p className="font-semibold sm:text-base md:text-lg">Jenny Wilson</p>
         </div>
       </div>
     </section>
